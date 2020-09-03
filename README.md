@@ -1,5 +1,5 @@
 # dialog
-An interactive JAVA shell that runs java functions in a command/response terminal. 
+An interactive JAVA shell that runs java functions in a command/response terminal. Pure JAVA! Support all java and nothing more or less.
 
 
 # Example:
