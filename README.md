@@ -28,7 +28,7 @@ Out[3]:	89
 </pre>
 
 # Packages:
-  All java packages are available and you can use the import statement in any block. The following packages and classes you can use them directly:
+  All java packages are available and package can be imported for each block. The following packages and classes can be used directly without imports:
   
   <h5>Pre-imported packages:</h5>
      <li>java.lang
