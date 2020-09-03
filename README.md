@@ -25,6 +25,17 @@ Out[2]:
        	
 Out[3]:	89
 
- In[4]:	
-
 </pre>
+
+# Packages:
+  All java packages are available and you can use the import statement in any block. The following packages and classes you can use them directly:
+  
+  <h5>Pre-imported packages:</h5>
+     <li>java.lang
+     <li>java.util
+     <li>java.io
+     <li>java.net
+  <h5>Pre-imported static classes:</h5>
+      <li>java.lang.Math
+      <li>java.util.Collections
+       
