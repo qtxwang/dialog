@@ -14,14 +14,14 @@ xwang@potato:~$ dialog
        	
 Out[1]:	1.0
 
- In[2]:	int fabonacci(int k){
+ In[2]:	int fibonacci(int k){
        		if(k<=1) return 1;
-       		return fabonacci(k-1)+fabonacci(k-2);
+       		return fibonacci(k-1)+fibonacci(k-2);
        	}
        	
 Out[2]:	
 
- In[3]:	$2.fabonacci(10)
+ In[3]:	$2.fibonacci(10)
        	
 Out[3]:	89
 
