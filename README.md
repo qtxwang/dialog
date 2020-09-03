@@ -6,8 +6,11 @@ An interactive JAVA shell that runs java functions in a command/response termina
 -- starting dialog verions 0.001 ---
 
  In[1]:	double angle = PI/6;
+ 
        	double x = cos(angle);
+        
        	double y = sin(angle);
+        
        	x*x+y*y
        	
 Out[1]:	1.0
