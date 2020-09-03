@@ -27,7 +27,7 @@ Out[3]:	89
 
 </pre>
 
-# Packages:
+# Java Packages:
   All java packages are available and package can be imported for each block. The following packages and classes can be used directly without imports:
   
   <h5>Pre-imported packages:</h5>
