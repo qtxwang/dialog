@@ -1,0 +1,5 @@
+double angle = PI/6;
+double x = cos(angle);
+double y = sin(angle);
+x*x+y*y
+
