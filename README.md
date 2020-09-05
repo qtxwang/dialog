@@ -1,6 +1,6 @@
 # dialog
 An interactive JAVA shell that runs java functions in a command/response terminal. Pure JAVA, support all java functionality and nothing but java.
-
+TO run the command, just type "./dialog" at the project directory.
 
 # Example:
 <pre>
@@ -29,7 +29,8 @@ Out[3]:	89
 
 
 # Installation
-TO BE ADDED
+mvn clean install
+
 
 # How to use existing Java Packages:
   All java packages are available and package can be imported for each block. The following packages and classes can be used directly without imports:
