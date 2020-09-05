@@ -19,7 +19,7 @@ public class Jnote {
 	private JCompiler compiler;
 	private static ArrayList<Answer> answers = new ArrayList<Answer>();
 	private static HashMap<String, Jnote> allNotes = new HashMap<String,Jnote>();
-	protected static String home = "/home/xwang/eclipse-workspace/dialog/workspace";
+	protected static String home = System.getenv("DIALOG_HOME") + "/workspace";
 	
 	public Jnote(String packName) {
 		compiler = new JCompiler();

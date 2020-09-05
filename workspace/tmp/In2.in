@@ -1,5 +1,0 @@
-int fabonacci(int k){
-	if(k<=1) return 1;
-	return fabonacci(k-1)+fabonacci(k-2);
-}
-
