@@ -1,7 +1,7 @@
 # dialog
 An interactive JAVA shell that runs java functions in a command/response terminal. Pure JAVA, support all java functionality and nothing but java.
 
-SETUP environment variable: EXPORT DIALOG_HOME=HOME_DIRECTORY_OF_DIALOG
+SETUP environment variable: export DIALOG_HOME=HOME_DIRECTORY_OF_DIALOG
 
 TO run the command, just type "./dialog" at the project directory.
 
