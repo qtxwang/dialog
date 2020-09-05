@@ -1,5 +1,6 @@
 # dialog
 An interactive JAVA shell that runs java functions in a command/response terminal. Pure JAVA, support all java functionality and nothing but java.
+
 TO run the command, just type "./dialog" at the project directory.
 
 # Example:
